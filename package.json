@@ -1,0 +1,26 @@
+{
+  "name": "composedb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@composedb/devtools": "^0.3.1",
+    "@composedb/devtools-node": "^0.3.1",
+    "@composedb/types": "^0.3.1"
+  },
+  "dependencies": {
+    "@ceramicnetwork/http-client": "^2.12.1",
+    "@composedb/client": "^0.3.1",
+    "graphiql": "^2.2.0",
+    "graphql": "^16.6.0",
+    "key-did-provider-ed25519": "^2.0.1",
+    "key-did-resolver": "^2.3.0",
+    "uint8arrays": "^4.0.2"
+  }
+}
